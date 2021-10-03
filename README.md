@@ -14,5 +14,5 @@
 
 * 下载tempermonkey
 * 获取脚本
-  * [greasyforks](https://greasyfork.org/zh-CN/scripts/433346-%E5%8C%97%E8%88%AA%E8%AF%BE%E7%A8%8B%E4%B8%AD%E5%BF%83%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)
-  * [github](https://github.com/amberOoO/buaa-course-center-download-helper)
+  * [GreasyForks](https://greasyfork.org/zh-CN/scripts/433346-%E5%8C%97%E8%88%AA%E8%AF%BE%E7%A8%8B%E4%B8%AD%E5%BF%83%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)
+  * [Github](https://github.com/amberOoO/buaa-course-center-download-helper)
